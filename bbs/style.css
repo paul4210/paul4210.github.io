@@ -6,10 +6,10 @@ body {
 th {
     font-weight: bold;
 }
-table{
+table {
     border: 3px solid white;
     background-color: cornflowerblue;
 }
-tr td{
+tr td {
     border: 3px solid white
 }
