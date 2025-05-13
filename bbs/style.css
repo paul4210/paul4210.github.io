@@ -7,9 +7,13 @@ th {
     font-weight: bold;
 }
 table {
+    border-collapse: collapse;
     border: 3px solid white;
     background-color: cornflowerblue;
 }
 tr td {
+    border: 3px solid white;
+}
+th {
     border: 3px solid white;
 }
